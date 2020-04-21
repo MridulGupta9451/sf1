@@ -1,0 +1,46 @@
+body{
+	font-family: 'Dancing Script', cursive;
+	background-image: url(https://webdesignerdepot.s3.amazonaws.com/default-images/25.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+a{
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+}
+
+ul{
+	list-style-type: none;
+	margin: 1px;
+	padding: 0;
+	overflow: hidden;
+	/*background-color: #333;*/
+}
+li{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.my{
+	color: pink;
+	border: 5px solid white;
+	border-radius: 10px;
+}
+
+div{
+	font-size: 50px;
+	color: white;
+}
+.rem{
+	font-size: 30px;
+}

@@ -1,0 +1,48 @@
+body{
+	font-family: 'Dancing Script', cursive;
+	background-image: url(https://st.depositphotos.com/1152339/1954/i/950/depositphotos_19542705-stock-photo-education-concept-achievement-on-digital.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+a{
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+}
+
+ul{
+	list-style-type: none;
+	margin: 1px;
+	padding: 0;
+	overflow: hidden;
+	/*background-color: #333;*/
+}
+li{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.my{
+	color: pink;
+	border: 5px solid white;
+	border-radius: 10px;
+}
+
+p{
+	font-size: 50px;
+	color: white;
+}
+
+div{
+	font-size: 30px;
+}
