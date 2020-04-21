@@ -57,8 +57,8 @@ div {
 
 @keyframes example {
   0%   {background-color:red; left:0px; top:80px;}
-  25%  {background-color:purple; left:800px; top:80px;}
-  50%  {background-color:blue; left:800px; top:200px;}
+  25%  {background-color:purple; left:1000px; top:80px;}
+  50%  {background-color:blue; left:1000px; top:200px;}
   75%  {background-color:green; left:0px; top:200px;}
   100% {background-color:red; left:0px; top:80px;}
 }
