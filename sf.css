@@ -1,0 +1,46 @@
+body{
+	font-family: 'Dancing Script', cursive;
+	background-image: url(https://wallpaperheart.com/wp-content/uploads/2018/04/best-background-images-hd-pretty-wallpapers-hd.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+a{
+	display: block;
+	padding: 8px;
+	background-color: #ffa64d;
+}
+
+ul{
+	list-style-type: none;
+	margin: 1px;
+	padding: 0;
+	overflow: hidden;
+	background-color: #1a0d00;
+}
+li{
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px 8px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.my{
+	color: #ffa64d;
+	font-size: 50px;
+}
+
+div{
+	font-size: 30px;
+}
+.hey{
+	font-size: 50px;
+	color: #ffff66;
+}
